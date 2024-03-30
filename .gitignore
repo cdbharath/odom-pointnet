@@ -1,0 +1,6 @@
+kitti_lidar_data/*
+*.pyc
+__pycache__/
+*.pth
+*.txt
+*.png
