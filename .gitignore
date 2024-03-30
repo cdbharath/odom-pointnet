@@ -3,4 +3,3 @@ kitti_lidar_data/*
 __pycache__/
 *.pth
 *.txt
-*.png
