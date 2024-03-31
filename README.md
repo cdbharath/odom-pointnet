@@ -15,8 +15,8 @@ This work implements the following steps
 ### Results
 
 <div align="left">
-  <img src="model_output.png" alt="Image 1" width="400" height="400" style="margin-right: 20px;">
-  <img src="icp_output.png" alt="Image 2" width="400" height="400">
+  <img src="model_output.png" alt="Image 1" width="400" height="350" style="margin-right: 20px;">
+  <img src="icp_output.png" alt="Image 2" width="400" height="350">
 </div>
 Graph in the left shows the performance of the model in comparison with ground truth in city 0, while the graph in the right shows the performance for ICP in the same city.
 
