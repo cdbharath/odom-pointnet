@@ -18,9 +18,10 @@ This work implements the following steps
 ### Results
 
 <div align="left">
-  <img src="model_output.png" alt="Image 1" width="450" height="400" style="margin-right: 5px;">
-  <img src="icp_output.png" alt="Image 2" width="400" height="400">
+  <img src="model_output.png" alt="Image 1" width="400" height="350" style="margin-right: 20px;">
+  <img src="icp_output.png" alt="Image 2" width="400" height="350">
 </div>
 Graph in the left shows the odometry prediction of the point-based model relative to ground truth in KITTI city 0. The graph in the right shows the performance for ICP for the same city. 
 
-
+### Reference
+1. LodoNet: A Deep Neural Network with 2D Keypoint Matchingfor 3D LiDAR Odometry Estimation
