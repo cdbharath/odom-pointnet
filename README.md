@@ -2,7 +2,10 @@
 
 ### Odometry prediction with KITTI Lidar dataset
 
-![gesture detection](odom.gif)
+<div align="left">
+  <img src="odom.gif" alt="Image 1" width="450" height="400" style="margin-right: 5px;">
+  <img src="map.png" alt="Image 2" width="400" height="400">
+</div>
 
 This work implements the following steps
 1. Extract lidar scans
@@ -15,9 +18,9 @@ This work implements the following steps
 ### Results
 
 <div align="left">
-  <img src="model_output.png" alt="Image 1" width="400" height="400" style="margin-right: 20px;">
+  <img src="model_output.png" alt="Image 1" width="450" height="400" style="margin-right: 5px;">
   <img src="icp_output.png" alt="Image 2" width="400" height="400">
 </div>
-Graph in the left shows the performance of the model in comparison with ground truth in city 0, while the graph in the right shows the performance for ICP in the same city.
+Graph in the left shows the odometry prediction of the point-based model relative to ground truth in KITTI city 0. The graph in the right shows the performance for ICP for the same city. 
 
 
