@@ -3,8 +3,8 @@
 ### Odometry prediction with KITTI Lidar dataset
 
 <div align="left">
-  <img src="odom.gif" alt="Image 1" width="450" height="400" style="margin-right: 5px;">
-  <img src="map.png" alt="Image 2" width="400" height="400">
+  <img src="odom.gif" alt="Image 1" width="400" height="350" style="margin-right: 5px;">
+  <img src="map.png" alt="Image 2" width="400" height="350">
 </div>
 
 This work implements the following steps
